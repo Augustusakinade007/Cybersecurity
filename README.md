@@ -1,1 +1,1 @@
-# Cybersecurity
+This is a practical class
